@@ -1,2 +1,2 @@
 # Stats-roller
-4d6 atributes roller for dnd
+3d6 atributes roller for dnd
