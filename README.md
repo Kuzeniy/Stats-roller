@@ -1,4 +1,4 @@
 # Stats-roller
-3d6 atributes roller for dnd
+3d6 dices roller
 
 plaintext
